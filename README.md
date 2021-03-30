@@ -16,13 +16,26 @@
 ---
 
 ### 🔌 Connect with me:
-
-[<img align="left" alt="JeshadKhan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Jeshad Khan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jeshad Khan | GutHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Jeshad Khan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Jeshad Khan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Jeshad Khan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<p>
+  <a href="https://jeshadkhan.github.io" target="blank" title="Personal Portfolio">
+    <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" height="30" width="40" />
+  </a>  
+  <a href="https://linkedin.com/in/jeshadkhan" target="blank" title="LinkedIn">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" />
+  </a>
+  <a href="https://github.com/jeshadkhan" target="blank" title="GutHub">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/jeshadkhan" target="blank" title="Twitter">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40" />
+  </a>
+  <a href="https://facebook.com/jeshadkhan" target="blank" title="Facebook">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="40" />
+  </a>
+  <a href="https://youtube.com/jeshadkhan" target="blank" title="YouTube">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
