@@ -72,6 +72,8 @@
 
 </details>
 
+---
+
 <p align="center">
   <img alt="Jeshad Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeshadkhan&show_icons=true&hide_border=true" />
 </p>
@@ -80,7 +82,7 @@
 </p>
 
 ---
-<br/>
+<p align="center">
 💻 with ❤️
-<br/>
+</p>
 <hr/>
