@@ -72,8 +72,8 @@
 
 </details>
 
-<img align="center" alt="Jeshad Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeshadkhan&show_icons=true&hide_border=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeshadkhan&layout=compact&hide_border=true" />
+<img align="left" alt="Jeshad Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeshadkhan&show_icons=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeshadkhan&layout=compact&hide_border=true" />
 
 ---
 <br/>
