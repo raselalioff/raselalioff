@@ -62,7 +62,7 @@
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
-  <img width="30" height="30" src=""/>
+  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg"/>
 </p>
 
 ---
@@ -73,7 +73,7 @@
 - [📝 Title 1](https://www.youtube.com/watch?v=7o5oMD9BCjs)
 - [📝 Title 2](https://www.youtube.com/watch?v=7o5oMD9BCjs)
 
-➡️ [More...](http://JeshadKhan.com)
+➡️ [More...](https://youtube.com/jeshadkhan)
 
 
 --- 
@@ -83,12 +83,6 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-2. 🗣 Commented on [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-3. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/free-developer-resources/pull/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🗣 Commented on [#3](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-<!--END_SECTION:activity-->
 
 </details>
 
