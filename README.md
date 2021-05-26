@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working on Daffodil Computers Ltd. (DCL) as Team Lead & Senior Software Engineer
+- 🔭 I’m currently working at Daffodil Computers Ltd. (DCL) as Team Lead & Senior Software Engineer
 - 🌱 I’m currently learning about everything 💡
 - 👯 I’m looking to collaborate with other developers for the invention
 - ✨ Goals: Contribute more to Open Source projects
