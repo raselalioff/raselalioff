@@ -7,10 +7,10 @@
 
 ---
 
-- 🔭 I’m currently working at Daffodil Computers Ltd. (DCL) as Team Lead & Senior Software Engineer
-- 🌱 I’m currently learning about everything 💡
-- 👯 I’m looking to collaborate with other developers for the invention
-- ✨ Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working at Daffodil Computers Ltd. (DCL) as Team Lead & Senior Software Engineer 💻 
+- 🌱 I’m currently learning about everything 💫
+- 👯 I’m looking to collaborate with other developers for the invention 💡
+- ✨ Goals: Contribute more to Open Source 🎯 projects
 - ⚡ Fun fact: I love to reading 📚, enjoying music 🎧 and traveling ✈️
 
 ---
@@ -81,10 +81,6 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/JeshadKhan/jeshadkhan/issues/1) in [JeshadKhan/jeshadkhan](https://github.com/JeshadKhan/jeshadkhan)
-2. 🗣 Commented on [#1](https://github.com/JeshadKhan/jeshadkhan/issues/1) in [JeshadKhan/jeshadkhan](https://github.com/JeshadKhan/jeshadkhan)
-3. 🗣 Commented on [#1](https://github.com/JeshadKhan/jeshadkhan/issues/1) in [JeshadKhan/jeshadkhan](https://github.com/JeshadKhan/jeshadkhan)
-4. ❗️ Opened issue [#1](https://github.com/JeshadKhan/jeshadkhan/issues/1) in [JeshadKhan/jeshadkhan](https://github.com/JeshadKhan/jeshadkhan)
 <!--END_SECTION:activity-->
 
 </details>
