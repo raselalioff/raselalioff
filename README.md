@@ -15,6 +15,10 @@
 
 ---
 
+![Github activity graph](https://activity-graph.herokuapp.com/graph?username=JeshadKhan&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)
+
+---
+
 ### 🔌 Connect with me:
 <p>
   <a style="text-decoration: none;" href="https://jeshadkhan.github.io" target="blank" title="Personal Portfolio">
