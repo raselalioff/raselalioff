@@ -104,6 +104,6 @@
 
 ---
 <p align="center">
-💻 with ❤️
+💻 with 💚❤️💚
 </p>
 <hr/>
