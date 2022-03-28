@@ -10,7 +10,7 @@
 
 ---
 
-- 🔭 I’m currently working at Daffodil Computers Ltd. as Team Lead & Sr. Software Engr. 💻 <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/dev_working.gif" height="140" align="right"/></a>
+- 🔭 I’m currently working at Daffodil Computers Ltd. as TL & Sr. Software Engr. 💻 <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/dev_working.gif" height="140" align="right"/></a>
 - 🌱 I’m currently learning about everything 💫
 - 👯 I’m looking to collaborate with other developers for the invention 💡
 - ✨ Goals: Contribute more to Open Source 🎯 projects
