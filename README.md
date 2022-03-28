@@ -1,4 +1,7 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img>, I'm Jeshad Khan</h1>
+<h1 align="center">
+  Hi there <a href="#"><img src="https://github.com/JeshadKhan/jeshadkhan/blob/7f5f23e53d7bd7bd4dbf0854c71aef557082fa6f/.github/images/hand_wave.gif" width="45px"/></a>, I'm Jeshad Khan
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%2338C2FF&size=35&center=true&vCenter=true&height=60&width=600&lines=Full+Stack+Developer;Odoo;Python;Dot.NET;Tech+Enthusiast;Entrepreneur;Technopreneur"></img>
+</h1>
 
 <h3 align="center">Tech Enthusiast, Entrepreneur, Technopreneur, Engineer, IT Guy & Finally, I am me & nothing more. <br/>From Bangladesh 🇧🇩</h3>
 
@@ -113,17 +116,17 @@
 <p align="center">
 💻 with 💚❤️💚
 </p>
+<br/>
 <p align="center">
   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/JeshadKhan?style=social"/>
   <img alt="GitHub User's Stars" src="https://img.shields.io/github/stars/JeshadKhan?style=social"/>
-  <img alt="Jeshad Khan | Count Views" src="https://enemo786q3svfle.m.pipedream.net"/>
 </p>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rudikschess/count.svg" />
+  <a href="#"><img src="https://profile-counter.glitch.me/JeshadKhan/count.svg"/></a>
 </p>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/footer.svg" />
+  <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/footer.svg"/></a>
 </div>
 
 
