@@ -95,11 +95,13 @@
 
 ---
 
-<div align="center">
-  <a href="#"><img alt="Jeshad Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeshadkhan&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" height="200"/></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeshadkhan&langs_count=10&layout=compact&hide_border=true" height="200"/></a>
-  <br/>
-  <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+<div>
+  <div align="center">
+    <a href="#"><img alt="Jeshad Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeshadkhan&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" height="200"/></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeshadkhan&langs_count=10&layout=compact&hide_border=true" height="200"/></a>
+    <br/>
+    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+  </div>
 </div>
 
 ---
