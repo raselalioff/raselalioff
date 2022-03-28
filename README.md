@@ -43,7 +43,7 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Tech Stack:
 <p>
   <img width="30" height="30" src="https://code.visualstudio.com/favicon.ico"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
@@ -95,18 +95,18 @@
 
 ---
 
-<p align="center">
-  <a href="#"><img alt="Jeshad Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeshadkhan&show_icons=true&hide_border=true" height="200"/></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeshadkhan&layout=compact&hide_border=true" height="200"/></a>
+<div align="center">
+  <a href="#"><img alt="Jeshad Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeshadkhan&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" height="200"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeshadkhan&langs_count=10&layout=compact&hide_border=true" height="200"/></a>
   <br/>
   <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <a href="#"><img src="https://media.giphy.com/media/vmGjjH1XOjViEfbBfZ/giphy.gif" width="128"></a>
-</p>
+</div>
 
 ---
 
@@ -118,8 +118,8 @@
   <img alt="GitHub User's Stars" src="https://img.shields.io/github/stars/JeshadKhan?style=social"/>
   <img alt="Jeshad Khan | Count Views" src="https://enemo786q3svfle.m.pipedream.net"/>
 </p>
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/footer.svg" />
-</p>
+</div>
 
 
