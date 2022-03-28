@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Jeshad Khan</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img>, I'm Jeshad Khan</h1>
 
 <h3 align="center">Tech Enthusiast, Entrepreneur, Technopreneur, Engineer, IT Guy & Finally, I am me & nothing more. <br/>From Bangladesh 🇧🇩</h3>
 
@@ -95,13 +95,11 @@
 
 ---
 
-<div>
-  <div align="center">
-    <a href="#"><img alt="Jeshad Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeshadkhan&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" height="200"/></a>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeshadkhan&langs_count=10&layout=compact&hide_border=true" height="200"/></a>
-    <br/>
-    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
-  </div>
+<div align="center">
+  <a href="#"><img alt="Jeshad Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeshadkhan&show_icons=true&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true" height="180"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeshadkhan&theme=react&langs_count=10&layout=compact&hide_border=true" height="180"/></a>
+  <br/>
+  <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </div>
 
 ---
@@ -119,6 +117,10 @@
   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/JeshadKhan?style=social"/>
   <img alt="GitHub User's Stars" src="https://img.shields.io/github/stars/JeshadKhan?style=social"/>
   <img alt="Jeshad Khan | Count Views" src="https://enemo786q3svfle.m.pipedream.net"/>
+</p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/rudikschess/count.svg" />
 </p>
 <div align="center">
   <img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/footer.svg" />
