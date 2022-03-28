@@ -96,14 +96,30 @@
 ---
 
 <p align="center">
-  <img alt="Jeshad Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeshadkhan&show_icons=true&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeshadkhan&layout=compact&hide_border=true" />
+  <a href="#"><img alt="Jeshad Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeshadkhan&show_icons=true&hide_border=true" height="200"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeshadkhan&layout=compact&hide_border=true" height="200"/></a>
+  <br/>
+  <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </p>
 
 ---
+
+<p align="center">
+  <a href="#"><img src="https://media.giphy.com/media/vmGjjH1XOjViEfbBfZ/giphy.gif" width="128"></a>
+</p>
+
+---
+
 <p align="center">
 💻 with 💚❤️💚
 </p>
-<hr/>
+<p align="center">
+  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/JeshadKhan?style=social"/>
+  <img alt="GitHub User's Stars" src="https://img.shields.io/github/stars/JeshadKhan?style=social"/>
+  <img alt="Jeshad Khan | Count Views" src="https://enemo786q3svfle.m.pipedream.net"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/footer.svg" />
+</p>
+
+
