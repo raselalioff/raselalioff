@@ -102,6 +102,16 @@
 <div align="center">
   <a href="#"><img alt="Jeshad Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeshadkhan&show_icons=true&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true" height="170"/></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeshadkhan&theme=react&langs_count=10&layout=compact&hide_border=true" height="170"/></a>
+  
+  <details>
+    <summary>More...</summary>
+    <!--START_SECTION:activity-->
+    [![](https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+    [![](https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+    [![](https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+    <!--END_SECTION:activity-->
+  </details>
+  
   <br/>
   <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </div>
