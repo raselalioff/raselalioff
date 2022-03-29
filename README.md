@@ -102,18 +102,6 @@
 <div align="center">
   <a href="#"><img alt="Jeshad Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeshadkhan&show_icons=true&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true" height="170"/></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeshadkhan&theme=react&langs_count=10&layout=compact&hide_border=true" height="170"/></a>
-  
-  <details>
-    <summary>More...</summary>
-  
-    <!--START_SECTION:profile-summary-card-->
-    ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeshadKhan&theme=nord_dark)
-    ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeshadKhan&theme=nord_dark)
-    ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeshadKhan&theme=nord_dark)
-    <!--END_SECTION:profile-summary-card-->
-
-  </details>
-  
   <br/>
   <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </div>
