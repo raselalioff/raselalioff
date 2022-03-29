@@ -110,7 +110,6 @@
     ![](https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
   </details>
   
-  <br/>
   <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </div>
 
