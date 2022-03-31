@@ -10,7 +10,8 @@
 
 ---
 
-<a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/dev_working.gif" height="140" align="right"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/dev_working.gif" height="125" align="right"/></a>
+
 - 🔭 I’m currently working at Daffodil Computers Ltd. as TL & Sr. Software Engr. 💻
 - 🌱 I’m currently learning about everything 💫
 - 👯 I’m looking to collaborate with other developers for the invention 💡
@@ -102,14 +103,6 @@
 <div align="center">
   <a href="#"><img alt="Jeshad Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeshadkhan&show_icons=true&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true" height="170"/></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeshadkhan&theme=react&langs_count=10&layout=compact&hide_border=true" height="170"/></a>
-  
-  ![](https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
-  <details>
-    <summary>More...</summary>
-    ![](https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
-    ![](https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
-  </details>
-  
   <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </div>
 
