@@ -10,7 +10,9 @@
 
 ---
 
+<!--
 <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/dev_working.gif" height="125" align="right"/></a>
+-->
 
 - 🔭 I’m currently working at Daffodil Computers Ltd. as TL & Sr. Software Engr. 💻
 - 🌱 I’m currently learning about everything 💫
@@ -18,11 +20,12 @@
 - ✨ Goals: Contribute more to Open Source 🎯 projects
 - ⚡ Fun fact: I love to reading 📚, enjoying music 🎧 and traveling ✈️
 
-<!--
 ---
 
+<!--
 ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=JeshadKhan&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)
 -->
+[![Jeshad Khan's github activity graph](https://activity-graph.herokuapp.com/graph?username=JeshadKhan&theme=react-dark)](https://github.com/JeshadKhan/github-readme-activity-graph)
 
 ---
 
