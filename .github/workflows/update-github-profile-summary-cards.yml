@@ -1,4 +1,4 @@
-name: Profile Summary
+name: GitHub Profile Summary
 
 on:
   schedule:
