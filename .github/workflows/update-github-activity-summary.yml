@@ -17,4 +17,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          COMMIT_MSG: 'Update GitHub Activity Summary'
           MAX_LINES: 5
