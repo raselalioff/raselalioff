@@ -5,8 +5,8 @@
 
 <h3 align="center">Tech Enthusiast, Entrepreneur, Technopreneur, Engineer, IT Guy & Finally, I am me & nothing more. <br/>From Bangladesh 🇧🇩</h3>
 
-[![website](https://img.shields.io/website?label=JeshadKhan.com&style=for-the-badge&url=https%3A%2F%2Fjeshadkhan.com)](https://jeshadkhan.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jeshadkhan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJeshadKhan&screen_name=JeshadKhan)
+[![website](https://img.shields.io/website?label=RaselAli.com&style=for-the-badge&url=https%3A%2F%2Fraselali.com)](https://raselali.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/raselali24?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fraselali24&screen_name=Rasel ALi)
 
 ---
 
@@ -14,7 +14,7 @@
 <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/dev_working.gif" height="125" align="right"/></a>
 -->
 
-- 🔭 I’m currently working at Daffodil Computers Ltd. as TL & Sr. Software Engr. 💻
+- 🔭 I’m currently working at Daffodil Family as System Analyst & Implementer(IT). 💻
 - 🌱 I’m currently learning about everything 💫
 - 👯 I’m looking to collaborate with other developers for the invention 💡
 - ✨ Goals: Contribute more to Open Source 🎯 projects
@@ -25,7 +25,7 @@
 <!--
 ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=JeshadKhan&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)
 -->
-[![Jeshad Khan's github activity graph](https://activity-graph.herokuapp.com/graph?username=JeshadKhan&theme=react-dark)](https://github.com/JeshadKhan/github-readme-activity-graph)
+<!-- [![Jeshad Khan's github activity graph](https://activity-graph.herokuapp.com/graph?username=JeshadKhan&theme=react-dark)](https://github.com/JeshadKhan/github-readme-activity-graph) -->
 
 ---
 
