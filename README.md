@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there <a href="#"><img src="https://raw.githubusercontent.com/raselalioff/raselalioff/main/.github/images/hand_wave.gif" width="45px" height="45px"/></a>, I'm Jeshad Khan
+  Hi there <a href="#"><img src="https://raw.githubusercontent.com/raselalioff/raselalioff/main/.github/images/hand_wave.gif" width="45px" height="45px"/></a>, I'm Rasel Ali
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%2338C2FF&size=35&center=true&vCenter=true&height=60&width=600&lines=Full+Stack+Developer;Odoo+Developer;Python+Developer;Dot.NET+Developer;Tech+Enthusiast;Entrepreneur;Technopreneur"></img>
 </h1>
 
