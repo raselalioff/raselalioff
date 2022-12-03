@@ -8,7 +8,7 @@
 [![website](https://img.shields.io/website?label=RaselAli.com&style=for-the-badge&url=https%3A%2F%2Fraselali.com)](https://raselali.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/raselali24?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fraselali24&screen_name=Rasel ALi)
  -->
----
+<!-- --- -->
 
 <!--
 <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/dev_working.gif" height="125" align="right"/></a>
@@ -31,22 +31,22 @@
 
 ### 🔌 Connect with me: <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/handshake.gif" height="30px"></a>
 <p>
-  <a style="text-decoration: none;" href="https://jeshadkhan.github.io" target="blank" title="Personal Portfolio">
+<!--   <a style="text-decoration: none;" href="https://jeshadkhan.github.io" target="blank" title="Personal Portfolio">
     <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" height="20" width="30" />
-  </a>
-  <a style="text-decoration: none;" href="https://linkedin.com/in/jeshadkhan" target="blank" title="LinkedIn">
+  </a> -->
+  <a style="text-decoration: none;" href="https://linkedin.com/in/raselalioff" target="blank" title="LinkedIn">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="30" />
   </a>
-  <a style="text-decoration: none;" href="https://github.com/jeshadkhan" target="blank" title="GutHub">
+  <a style="text-decoration: none;" href="https://github.com/raselalioff" target="blank" title="GutHub">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="30" />
   </a>
-  <a style="text-decoration: none;" href="https://twitter.com/jeshadkhan" target="blank" title="Twitter">
+  <a style="text-decoration: none;" href="https://twitter.com/raselalioff" target="blank" title="Twitter">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="20" width="30" />
   </a>
-  <a style="text-decoration: none;" href="https://facebook.com/jeshadkhan" target="blank" title="Facebook">
+  <a style="text-decoration: none;" href="https://facebook.com/raselalioff" target="blank" title="Facebook">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="20" width="30" />
   </a>
-  <a style="text-decoration: none;" href="https://youtube.com/jeshadkhan" target="blank" title="YouTube">
+  <a style="text-decoration: none;" href="https://youtube.com/raselthebillionsdream7729" target="blank" title="YouTube">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="25" width="30" />
   </a>
 </p>
@@ -106,7 +106,7 @@
 ---
 
 <div align="center">
-  <a href="#"><img alt="Jeshad Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeshadkhan&show_icons=true&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true" height="170"/></a>
+  <a href="#"><img alt="Rasel ALi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeshadkhan&show_icons=true&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true" height="170"/></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeshadkhan&theme=react&langs_count=10&layout=compact&hide_border=true" height="170"/></a>
   
   <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
