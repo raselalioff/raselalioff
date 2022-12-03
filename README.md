@@ -112,12 +112,12 @@
 </p>
 <br/>
 <p align="center">
-  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/JeshadKhan?style=social"/>
-  <img alt="GitHub User's Stars" src="https://img.shields.io/github/stars/JeshadKhan?style=social"/>
+  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/raselalioff?style=social"/>
+  <img alt="GitHub User's Stars" src="https://img.shields.io/github/stars/raselalioff?style=social"/>
 </p>
 <p align="center"> 
   Visitor count<br>
-  <a href="#"><img src="https://profile-counter.glitch.me/JeshadKhan/count.svg"/></a>
+  <a href="#"><img src="https://profile-counter.glitch.me/raselalioff/count.svg"/></a>
 </p>
 <div align="center">
   <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/footer.svg"/></a>
