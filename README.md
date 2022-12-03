@@ -3,7 +3,7 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%2338C2FF&size=35&center=true&vCenter=true&height=60&width=600&lines=System+Implementor+Analyst;Odoo+Analyst;Python+Learner;Tech+Enthusiast;Entrepreneur;Technopreneur"></img>
 </h1>
 
-<h3 align="center">Tech Enthusiast, Entrepreneur, Technopreneur, Engineer, IT Guy & Finally, I am me & nothing more. <br/>From Bangladesh 🇧🇩</h3>
+<h3 align="center">Tech Enthusiast, Entrepreneur, Technopreneur, Engineer, IT Guy & Finally,I am me & nothing more. <br/>From Bangladesh 🇧🇩</h3>
 <!-- 
 [![website](https://img.shields.io/website?label=RaselAli.com&style=for-the-badge&url=https%3A%2F%2Fraselali.com)](https://raselali.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/raselali24?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fraselali24&screen_name=Rasel ALi)
@@ -20,7 +20,6 @@
 - ✨ Goals: Contribute more to Open Source 🎯 projects
 - ⚡ Fun fact: I love to reading 📚, enjoying music 🎧 and traveling ✈️
 
----
 
 <!--
 ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=JeshadKhan&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)
@@ -94,8 +93,8 @@
 ---
 
 <div align="center">
-  <a href="#"><img alt="Rasel ALi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeshadkhan&show_icons=true&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true" height="170"/></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeshadkhan&theme=react&langs_count=10&layout=compact&hide_border=true" height="170"/></a>
+  <a href="#"><img alt="Rasel Ali's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=raselalioff&show_icons=true&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true" height="170"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raselalioff&theme=react&langs_count=10&layout=compact&hide_border=true" height="170"/></a>
   
   <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </div>
