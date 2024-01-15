@@ -56,15 +56,15 @@
 <p>
   <img width="30" height="30" src="https://code.visualstudio.com/favicon.ico"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+<!--   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/> -->
+<!--   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
+  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/> -->
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
   <img width="30" height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
@@ -73,8 +73,8 @@
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
-  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg"/> -->
-</p> -->
+  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg"/> 
+</p>
 
 ---
 
