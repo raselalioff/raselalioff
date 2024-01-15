@@ -14,7 +14,7 @@
 <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/dev_working.gif" height="125" align="right"/></a>
 -->
 
-- 🔭 I’m currently working at Daffodil Family as System Analyst & Implementer(IT). 💻
+- 🔭 I’m currently working at Daffodil International University as System Analyst & Project Manager(IT). 💻
 - 🌱 I’m currently learning about everything 💫
 - 👯 I’m looking to collaborate with other developers for the invention 💡
 - ✨ Goals: Contribute more to Open Source 🎯 projects
@@ -78,7 +78,7 @@
 
 ---
 
-<!--
+
 ### 📕 Latest Blog Posts
 
 - [📝 Title 1](https://www.youtube.com/watch?v=7o5oMD9BCjs)
@@ -86,9 +86,6 @@
 
 ➡️ [More...](https://youtube.com/jeshadkhan)
 
-
---- 
--->
 
 ---
 
