@@ -10,10 +10,6 @@
  -->
 <!-- --- -->
 
-<!--
-<a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/dev_working.gif" height="125" align="right"/></a>
--->
-
 - 🔭 I’m currently working at Daffodil International University as System Analyst & Project Manager(IT). 💻
 - 🌱 I’m currently learning about everything 💫
 - 👯 I’m looking to collaborate with other developers for the invention 💡
