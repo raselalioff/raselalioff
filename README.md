@@ -16,14 +16,6 @@
 - ✨ Goals: Contribute more to Open Source 🎯 projects
 - ⚡ Fun fact: I love to reading 📚, enjoying music 🎧 and traveling ✈️
 
-
-<!--
-![Github activity graph](https://activity-graph.herokuapp.com/graph?username=JeshadKhan&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)
--->
-<!-- [![Jeshad Khan's github activity graph](https://activity-graph.herokuapp.com/graph?username=JeshadKhan&theme=react-dark)](https://github.com/JeshadKhan/github-readme-activity-graph) -->
-
----
-
 ### 🔌 Connect with me: <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/handshake.gif" height="30px"></a>
 <p>
 <!--   <a style="text-decoration: none;" href="https://jeshadkhan.github.io" target="blank" title="Personal Portfolio">
@@ -79,8 +71,6 @@
 
 - [📝 Title 1](https://www.youtube.com/watch?v=7o5oMD9BCjs)
 - [📝 Title 2](https://www.youtube.com/watch?v=7o5oMD9BCjs)
-
-➡️ [More...](https://youtube.com/jeshadkhan)
 
 
 ---
