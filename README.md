@@ -3,7 +3,7 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%2338C2FF&size=35&center=true&vCenter=true&height=60&width=600&lines=System+Implementor+Analyst;Odoo+Analyst;Python+Learner;Tech+Enthusiast;Entrepreneur;Technopreneur"></img>
 </h1>
 
-<h3 align="center">Tech Enthusiast, Entrepreneur, Technopreneur, Engineer, IT Guy & Finally,I am me & nothing more. <br/>From Bangladesh 🇧🇩</h3>
+<h3 align="center">Tech Enthusiast,Entrepreneur,Technopreneur,Engineer,IT Guy & Finally,I am me & nothing more.<br/>From Bangladesh 🇧🇩</h3>
 <!-- 
 [![website](https://img.shields.io/website?label=RaselAli.com&style=for-the-badge&url=https%3A%2F%2Fraselali.com)](https://raselali.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/raselali24?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fraselali24&screen_name=Rasel ALi)
