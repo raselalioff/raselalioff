@@ -43,15 +43,6 @@
 <p>
   <img width="30" height="30" src="https://code.visualstudio.com/favicon.ico"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<!--   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/> -->
-<!--   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/> -->
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
   <img width="30" height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
@@ -62,17 +53,6 @@
   <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg"/> 
 </p>
-
----
-
-
-### 📕 Latest Blog Posts
-
-- [📝 Title 1](https://www.youtube.com/watch?v=7o5oMD9BCjs)
-- [📝 Title 2](https://www.youtube.com/watch?v=7o5oMD9BCjs)
-
-
----
 
 <div align="center">
   <a href="#"><img alt="Rasel Ali's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=raselalioff&show_icons=true&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true" height="170"/></a>
@@ -94,15 +74,15 @@
 </p>
 <br/>
 <p align="center">
-  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/raselalioff?style=social"/>
-  <img alt="GitHub User's Stars" src="https://img.shields.io/github/stars/raselalioff?style=social"/>
+  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/raselaioff?style=social"/>
+  <img alt="GitHub User's Stars" src="https://img.shields.io/github/stars/raselaioff?style=social"/>
 </p>
 <p align="center"> 
   Visitor count<br>
-  <a href="#"><img src="https://profile-counter.glitch.me/raselalioff/count.svg"/></a>
+  <a href="#"><img src="https://profile-counter.glitch.me/raselaioff/count.svg"/></a>
 </p>
 <div align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/footer.svg"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/raselaioff/raselaioff/main/.github/images/footer.svg"/></a>
 </div>
 
 
