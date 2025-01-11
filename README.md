@@ -4,23 +4,22 @@
 </h1>
 
 <h3 align="center">Tech Enthusiast,Entrepreneur,Technopreneur,Engineer,IT Guy & Finally,I am me & nothing more.<br/>From Bangladesh 🇧🇩</h3>
-<!-- 
-[![website](https://img.shields.io/website?label=RaselAli.com&style=for-the-badge&url=https%3A%2F%2Fraselali.com)](https://raselali.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/raselali24?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fraselali24&screen_name=Rasel ALi)
- -->
-<!-- --- -->
+
 
 - 🔭 I’m currently working at Daffodil International University as System Analyst & Project Manager(IT). 💻
 - 🌱 I’m currently learning about everything 💫
 - 👯 I’m looking to collaborate with other developers for the invention 💡
 - ✨ Goals: Contribute more to Open Source 🎯 projects
 - ⚡ Fun fact: I love to reading 📚, enjoying music 🎧 and traveling ✈️
+---
 
-### 🔌 Connect with me: <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/handshake.gif" height="30px"></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raselalioff&bg_color=20232a&color=ffffff&line=57bcda&point=109be0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🔌 Connect with me: <a href="#"><img src="https://raw.githubusercontent.com/raselalioff/raselalioff/main/.github/images/handshake.gif" height="30px"></a>
 <p>
-<!--   <a style="text-decoration: none;" href="https://jeshadkhan.github.io" target="blank" title="Personal Portfolio">
-    <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" height="20" width="30" />
-  </a> -->
+  
   <a style="text-decoration: none;" href="https://linkedin.com/in/raselalioff" target="blank" title="LinkedIn">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="30" />
   </a>
