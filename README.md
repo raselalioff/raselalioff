@@ -54,6 +54,20 @@
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg"/> 
 </p>
 
+
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#395](https://github.com/w3schools-test/w3schools-test.github.io/pull/395) in [w3schools-test/w3schools-test.github.io](https://github.com/w3schools-test/w3schools-test.github.io)
+2. 🗣 Commented on [#1](https://github.com/raselalioff/raselalioff/issues/1) in [RaselAli/raselalioff](https://github.com/raselalioff/raselali)
+3. 🗣 Commented on [#1](https://github.com/raselalioff/raselalioff/issues/1) in [RaselAli/raselalioff](https://github.com/raselalioff/raselali)
+4. ❗️ Opened issue [#1](https://github.com/raselalioff/raselalioff/issues/1) in [RaselAli/raselalioff](https://github.com/raselalioff/raselali)
+<!--END_SECTION:activity-->
+
+</details>
+
 <div align="center">
   <a href="#"><img alt="Rasel Ali's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=raselalioff&show_icons=true&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true" height="170"/></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raselalioff&theme=react&langs_count=10&layout=compact&hide_border=true" height="170"/></a>
