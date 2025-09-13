@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi there <a href="#"><img src="https://raw.githubusercontent.com/raselalioff/raselalioff/main/.github/images/hand_wave.gif" width="45px" height="45px"/></a>, I'm Rasel Ali
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%2338C2FF&size=35&center=true&vCenter=true&height=60&width=600&lines=System+Implementor+Analyst;Odoo+Analyst;Python+Learner;Tech+Enthusiast;Entrepreneur;Technopreneur"></img>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%2338C2FF&size=35&center=true&vCenter=true&height=60&width=600&lines=Proejct Manager+Implementor+Analyst;Odoo+Analyst;Python+Learner;Tech+Enthusiast;Entrepreneur;Technopreneur"></img>
 </h1>
 
 <h3 align="center">Tech Enthusiast,Entrepreneur,Technopreneur,Engineer,IT Guy & Finally,I am me & nothing more.<br/>From Bangladesh 🇧🇩</h3>
